@@ -1,0 +1,16 @@
+{
+  "name": "pixi-game-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Damian Balandowski",
+  "license": "ISC",
+  "dependencies": {
+    "howler": "^2.0.14",
+    "pixi.js": "^4.8.1"
+  }
+}
